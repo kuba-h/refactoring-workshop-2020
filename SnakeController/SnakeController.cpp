@@ -6,6 +6,8 @@
 #include "EventT.hpp"
 #include "IPort.hpp"
 
+//kuba-h
+
 namespace Snake
 {
 ConfigurationError::ConfigurationError()
